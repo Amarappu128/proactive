@@ -1,2 +1,3 @@
-# proactive
-proactive
+mkdir awesome
+cd awesome
+git init
